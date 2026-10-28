@@ -1,6 +1,19 @@
 ---
 name: hkust-aser-event-graph
 description: 检索和分析 ASER 事件知识图谱及抽取流程。用于用户明确提到 ASER 或对应科研复现任务时。
+version: 1.0.0
+license: MIT
+category: research
+author:
+  name: TITU Work
+  url: https://github.com/LobeHub-Enterprise-CPC
+repository: https://github.com/LobeHub-Enterprise-CPC/TiTuWork-HKUST-Research-Skills
+sourceUrl: https://github.com/HKUST-KnowComp/ASER
+tags:
+  - 香港科技大学
+  - HKUST-KnowComp
+  - 科研
+  - 知识图谱
 ---
 
 # ASER 研究工作流

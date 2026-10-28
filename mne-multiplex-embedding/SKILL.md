@@ -1,6 +1,19 @@
 ---
 name: hkust-mne-multiplex-embedding
 description: 复现多关系网络嵌入并评估链接预测。用于用户明确提到 MNE 或对应科研复现任务时。
+version: 1.0.0
+license: MIT
+category: research
+author:
+  name: TITU Work
+  url: https://github.com/LobeHub-Enterprise-CPC
+repository: https://github.com/LobeHub-Enterprise-CPC/TiTuWork-HKUST-Research-Skills
+sourceUrl: https://github.com/HKUST-KnowComp/MNE
+tags:
+  - 香港科技大学
+  - HKUST-KnowComp
+  - 科研
+  - 知识图谱
 ---
 
 # MNE 研究工作流

@@ -1,6 +1,19 @@
 ---
 name: hkust-atlaskv-kg-memory
 description: 评估十亿级知识图谱键值增强大模型的方法。用于用户明确提到 AtlasKV 或对应科研复现任务时。
+version: 1.0.0
+license: MIT
+category: research
+author:
+  name: TITU Work
+  url: https://github.com/LobeHub-Enterprise-CPC
+repository: https://github.com/LobeHub-Enterprise-CPC/TiTuWork-HKUST-Research-Skills
+sourceUrl: https://github.com/HKUST-KnowComp/AtlasKV
+tags:
+  - 香港科技大学
+  - HKUST-KnowComp
+  - 科研
+  - 知识图谱
 ---
 
 # AtlasKV 研究工作流

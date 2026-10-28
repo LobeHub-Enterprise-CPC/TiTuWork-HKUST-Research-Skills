@@ -1,6 +1,19 @@
 ---
 name: hkust-autograph-r1-reproduction
 description: 复现以强化学习优化知识图谱构建的实验。用于用户明确提到 AutoGraph-R1 或对应科研复现任务时。
+version: 1.0.0
+license: MIT
+category: research
+author:
+  name: TITU Work
+  url: https://github.com/LobeHub-Enterprise-CPC
+repository: https://github.com/LobeHub-Enterprise-CPC/TiTuWork-HKUST-Research-Skills
+sourceUrl: https://github.com/HKUST-KnowComp/AutoGraph-R1
+tags:
+  - 香港科技大学
+  - HKUST-KnowComp
+  - 科研
+  - 知识图谱
 ---
 
 # AutoGraph-R1 研究工作流

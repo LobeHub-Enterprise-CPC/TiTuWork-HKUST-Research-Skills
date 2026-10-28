@@ -1,6 +1,19 @@
 ---
 name: hkust-ngdbench-evaluation
 description: 评估图数据管理、Text2Cypher 与 GraphRAG 的抗噪能力。用于用户明确提到 NGDBench 或对应科研复现任务时。
+version: 1.0.0
+license: MIT
+category: research
+author:
+  name: TITU Work
+  url: https://github.com/LobeHub-Enterprise-CPC
+repository: https://github.com/LobeHub-Enterprise-CPC/TiTuWork-HKUST-Research-Skills
+sourceUrl: https://github.com/HKUST-KnowComp/NGDBench
+tags:
+  - 香港科技大学
+  - HKUST-KnowComp
+  - 科研
+  - 知识图谱
 ---
 
 # NGDBench 研究工作流

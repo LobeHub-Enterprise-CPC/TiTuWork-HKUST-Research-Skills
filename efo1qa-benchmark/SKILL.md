@@ -1,6 +1,19 @@
 ---
 name: hkust-efo1qa-benchmark
 description: 运行存在一阶逻辑知识图谱查询基准。用于用户明确提到 EFO-1-QA-benchmark 或对应科研复现任务时。
+version: 1.0.0
+license: MIT
+category: research
+author:
+  name: TITU Work
+  url: https://github.com/LobeHub-Enterprise-CPC
+repository: https://github.com/LobeHub-Enterprise-CPC/TiTuWork-HKUST-Research-Skills
+sourceUrl: https://github.com/HKUST-KnowComp/EFO-1-QA-benchmark
+tags:
+  - 香港科技大学
+  - HKUST-KnowComp
+  - 科研
+  - 知识图谱
 ---
 
 # EFO-1-QA-benchmark 研究工作流
